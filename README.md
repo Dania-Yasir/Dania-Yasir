@@ -65,7 +65,3 @@ Looks at the operational factors that affect call center performance.
 
 Python · Jupyter · Machine learning (classification and regression) · Feature engineering · Model validation · Power BI · Excel
 
-## Contact
-
-- Email: *add your email*
-- LinkedIn: *add your link*

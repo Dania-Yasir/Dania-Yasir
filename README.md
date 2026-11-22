@@ -2,7 +2,7 @@
 
 I turn real-world data into useful predictions and clear business insights using machine learning and data analytics.
 
-I'm an AI student at the Arab Open University (GPA 4/4) and a Machine Learning Engineer Intern at FlyRank AI.
+I'm an AI student at the Arab Open University and a Machine Learning Engineer Intern at CodeAlpha.
 
 **Portfolio:** [dania-yasir.github.io/my-portfolio](https://dania-yasir.github.io/my-portfolio/)
 **Open to:** interviews for AI, machine learning, and data roles.
